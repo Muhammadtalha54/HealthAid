@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421130449944",
+    "project_id": "health-aid-6142e",
+    "storage_bucket": "health-aid-6142e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421130449944:android:8f526ae9dc962073adff6d",
+        "android_client_info": {
+          "package_name": "com.example.healthaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi_oG1uR2FK1bYYWASSF3kxhEQqLX-0tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
